@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Dhawa Dorje Ghising (DhawaDG)
-### **Aspiring Data Scientist | Aspiring HFT Quant | Junior data analyst | Freelancer**  
+### **Aspiring Data Scientist | E commerce & Retails | Junior data analyst | Freelancer**  
 📍 Based in Nepal | 🚀 Building data-driven solutions with Python & SQL  
 
 ---
 
 ## 🚀 **About Me**
 - 🔭 Building **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** to guide learners through core concepts    
-- 📚 Passionate about **statistics, Data Science, HFT Quant and hands-on data projects**  
+- 📚 Passionate about **statistics, Data Science, E-commerce & retails analytivs and hands-on data projects**  
 - 🎯 **Goals:** Advance in Data science and quant finance skills & contribute to open-source ML tools  
 
 ---
@@ -44,10 +44,18 @@
 ## 🗺️ **My Journey**
 | Date               | Milestone |
 |--------------------|-----------|
-| **Jan 2025**       | Launched [Python & Stats Notebook](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti) |
-| **Mar 2025**       | Analyzed e-commerce sales with SQL in [Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS) |
-| **Apr 2025**       | Deployed **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** |
-| **Apr 2025**       | Published [CLI EDA Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL) for automated workflows |
+| **Jan 2025**       | Learned **[Python & Stats Notebook](https://github.com/DhawaDG/Fundamentals-of-Pythons)** |
+| **Jan 2025**       | Published **[Data Scince Bootcamp-- Deerwalk Inc](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti)** |
+| **Mar 2025**       | Deployed CLI Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** |
+| **Mar 2025**       | Deployed CLI Based python fundamental project **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)** |
+| **Mar 2025**       | Analyzed **e-commerce sales with SQL in [Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)** |
+| **Mar 2025**       | Deployed CLI Based  EDA project **[Nepal Population Analysis Tool](https://github.com/DhawaDG/Nepal_Population_Analysis_Tool)** |
+| **Apr 2025**       | Deployed Deployed Conceptual  notebook project **[Exploratory Data Analysis (https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)** |
+| **Apr 2025**       | Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** |
+| **Apr 2025**       | Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** |
+| **Apr 2025**       | Publish Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics (https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
+
+
 
 ---
 
