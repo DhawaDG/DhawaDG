@@ -24,6 +24,16 @@
 ### 3. **[Sampling & Bootstrapping Study](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**
 > Comparative analysis of CLT vs Bootstrapping | `Python` `Matplotlib`  
 
+---
+
+## Project Type Summary
+
+| Project Type | Number of Projects |
+|:---|:---:|
+| **[Python Fundamentals]()** | 3 |
+| **[Data Analysis & EDA]()** | 3 |
+| **[Statistical Distributions & Hypothesis Testing]()** | 6 |
+| **[Web App Development]()** | 1 |
 
 
 ---
@@ -54,15 +64,6 @@
 
 
 ---
-
-## Project Type Summary
-
-| Project Type | Number of Projects |
-|:---|:---:|
-| **[Python Fundamentals]()** | 3 |
-| **[Data Analysis & EDA]()** | 3 |
-| **[Statistical Distributions & Hypothesis Testing]()** | 6 |
-| **[Web App Development]()** | 1 |
 
 
 ## 🛠️ **Tech Stack**
