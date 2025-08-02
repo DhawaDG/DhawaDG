@@ -32,9 +32,9 @@
 |:---:|:---|:---:|
 | **1** | **[Python Fundamentals]()** | Two |
 | **2** | **[SQL]()**| One |
-| **2** | **[EDA]()** | Three |
-| **3** | **[Statistics and Hypothesis]()** | Seven |
-| **4** | **[A/B Testing-Product Analytics]()** | Currently |
+| **3** | **[EDA]()** | Three |
+| **4** | **[Statistics and Hypothesis]()** | Seven |
+| **5** | **[A/B Testing-Product Analytics]()** | Currently |
 
 
 
