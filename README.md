@@ -10,32 +10,21 @@
 
 ---
 
-## 🛠️ **Tech Stack**
-### **Languages & Data Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## ⭐ **Featured Projects**
+### 1. **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)**
+> Interactive roadmap for data science learners | `Python` `Streamlit`  
+> ![Roadmap Preview](https://via.placeholder.com/600x300?text=Roadmap+Demo) *(add real screenshot)*
 
-### **Machine Learning & AI**
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 2. **[E-Commerce Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)**
+> SQL-powered sales dashboard & EDA | `SQL` `Pandas`  
+> ```sql
+> SELECT product, SUM(revenue) FROM sales GROUP BY product;
+> ```
+
+### 3. **[Sampling & Bootstrapping Study](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**
+> Comparative analysis of CLT vs Bootstrapping | `Python` `Matplotlib`  
 
 
-### **Analytics**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
----
-
-## 📊 **GitHub Stats**
-[![Dhawa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhawaDG&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/DhawaDG)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawaDG&layout=compact&theme=dark&hide_border=true)](https://github.com/DhawaDG)  
-
-🔥 **Streak:**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=DhawaDG&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -75,29 +64,35 @@
 | **[Statistical Distributions & Hypothesis Testing]()** | 6 |
 | **[Web App Development]()** | 1 |
 
+
+## 🛠️ **Tech Stack**
+### **Languages & Data Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Machine Learning & AI**
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+
+### **Analytics**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ---
 
-## ⭐ **Featured Projects**
-### 1. **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)**
-> Interactive roadmap for data science learners | `Python` `Streamlit`  
-> ![Roadmap Preview](https://via.placeholder.com/600x300?text=Roadmap+Demo) *(add real screenshot)*
+## 📊 **GitHub Stats**
+[![Dhawa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhawaDG&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)](https://github.com/DhawaDG)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawaDG&layout=compact&theme=dark&hide_border=true)](https://github.com/DhawaDG)  
 
-### 2. **[E-Commerce Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)**
-> SQL-powered sales dashboard & EDA | `SQL` `Pandas`  
-> ```sql
-> SELECT product, SUM(revenue) FROM sales GROUP BY product;
-> ```
-
-### 3. **[Sampling & Bootstrapping Study](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**
-> Comparative analysis of CLT vs Bootstrapping | `Python` `Matplotlib`  
+🔥 **Streak:**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=DhawaDG&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-
----
-
-## 📌 **Pinned Repositories**
-[![Data Science Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=DhawaDG&repo=Datascience_Roadmap_Tracker&theme=dark)](https://github.com/DhawaDG/Datascience_Roadmap_Tracker)  
-[![CLI EDA Tool](https://github-readme-stats.vercel.app/api/pin/?username=DhawaDG&repo=CLI_ALL_EDA_ANALYSIS_TOOL&theme=dark)](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)
 
 ---
 
@@ -106,3 +101,4 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhawadorjeghising)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawa.sonofgod.247@gmail.com)
 
+--- 
