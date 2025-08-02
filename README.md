@@ -26,14 +26,14 @@
 
 ---
 
-## Project Type Summary
+## 🚀 Project Type Summary
 
-| Project Type | Number of Projects |
-|:---|:---:|
-| **[Python Fundamentals]()** | 3 |
-| **[Data Analysis & EDA]()** | 3 |
-| **[Statistical Distributions & Hypothesis Testing]()** | 6 |
-| **[Web App Development]()** | 1 |
+| Icon | Project Type | Number of Projects |
+|:---:|:---|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | **[Python Fundamentals]()** | 3 |
+| ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0076A8?style=flat&logo=pandas&logoColor=white) | **[Data Analysis & EDA]()** | 3 |
+| ![Statistics](https://img.shields.io/badge/Statistics-C32148?style=flat&logo=scikitlearn&logoColor=white) | **[Statistical Distributions & Hypothesis Testing]()** | 6 |
+| ![Web App](https://img.shields.io/badge/Web_App-FF4B4B?style=flat&logo=streamlit&logoColor=white) | **[Web App Development]()** | 1 |
 
 
 ---
