@@ -4,9 +4,9 @@
 
 ---
 
-## 🚀 **About Me**  
-- 📚 Passionate about **statistics, Data Science, E-commerce & retails analytics and hands-on data projects**  
-- 🎯 **Goals:** Expert in Ecommerce & retails, Advance ML & Gen AI  
+##  **About Me**  
+- 📚 Passionate about **E-commerce & retails analytics and hands-on data projects**  
+- 🎯 **Goals:** Expert in Ecommerce & retails analytics, Advance ML & Gen AI  
 
 ---
 
