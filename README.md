@@ -31,7 +31,7 @@
 | SN | Project Type | Number of Projects |
 |:---:|:---|:---:|
 | **1** | **[Python Fundamentals](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | Two |
-| **2** | **[SQL]()**| One |
+| **2** | **[SQL](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)**| One |
 | **3** | **[EDA]()** | Three |
 | **4** | **[Statistics and Hypothesis]()** | Seven |
 | **5** | **[A/B Testing-Product Analytics]()** | Currently |
