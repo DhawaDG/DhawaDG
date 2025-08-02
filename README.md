@@ -25,8 +25,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
-### **Quant & Analytics**
-![QuantConnect](https://img.shields.io/badge/QuantConnect-5C2D91?style=for-the-badge)
+### **Analytics**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ---
