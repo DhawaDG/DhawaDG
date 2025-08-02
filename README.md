@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhawa Dorje Ghising (DhawaDG)
+# Dhawa Dorje Ghising (DhawaDG)
 ### **Aspiring Data Scientist | E commerce & Retails | Junior data analyst | Freelancer**  
 📍 Based in Nepal | 🚀 Building data-driven solutions with Python & SQL  
 
