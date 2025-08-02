@@ -61,7 +61,18 @@
 
 
 
+
+
+
 ---
+
+# Project Type Summary
+
+| Project Type              | Numbers of Project |
+|---------------------------|--------------------|
+
+|**[Python Fundamentals]()**| **2** |
+
 
 ## ⭐ **Featured Projects**
 ### 1. **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)**
