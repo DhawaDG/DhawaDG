@@ -68,10 +68,12 @@
 
 ## Project Type Summary
 
-| Project Type              | Numbers of Project |
-|--------------------|-----------|
-
-|**[Python Fundamentals]()**|      **2**         |
+| Project Type | Number of Projects |
+|:---|:---:|
+| **[Python Fundamentals]()** | 3 |
+| **[Data Analysis & EDA]()** | 3 |
+| **[Statistical Distributions & Hypothesis Testing]()** | 6 |
+| **[Web App Development]()** | 1 |
 
 ---
 
