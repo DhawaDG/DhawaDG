@@ -66,10 +66,10 @@
 
 ---
 
-# Project Type Summary
+## Project Type Summary
 
 | Project Type              | Numbers of Project |
-|---------------------------|--------------------|
+|--------------------|-----------|
 
 |**[Python Fundamentals]()**|      **2**         |
 
