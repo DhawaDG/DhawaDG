@@ -50,10 +50,16 @@
 | **Mar 2025**       | Deployed CLI Based python fundamental project **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)** |
 | **Mar 2025**       | Analyzed **e-commerce sales with SQL in [Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)** |
 | **Mar 2025**       | Deployed CLI Based  EDA project **[Nepal Population Analysis Tool](https://github.com/DhawaDG/Nepal_Population_Analysis_Tool)** |
-| **Apr 2025**       | Deployed Deployed Conceptual  notebook project **[Exploratory Data Analysis (https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)** |
-| **Apr 2025**       | Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** |
-| **Apr 2025**       | Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** |
-| **Apr 2025**       | Publish Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics (https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
+| **Apr 2025**       | Published **[Exploratory Data Analysis (https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)** |
+| **Apr 2025**       | Published Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics (https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
+| **May 2025**       | Compared **[ Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)** |
+| **May 2025**       | Deployed **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
+| **May 2025**       | Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tacking Data Science learning curve progress |
+| **Jun 2025**       | Deployed **[E-commerce Flash Sale and Spike Order Analysis Using Binomial and Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** |
+| **jun 2025**       | Deployed **[Amazon Product Return Analysis Using Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** |
+| **jun 2025**       | Deployed **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |
+
+
 
 
 
