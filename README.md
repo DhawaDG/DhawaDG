@@ -49,7 +49,7 @@
 | **Mar 2025**       | Analyzed **e-commerce sales with SQL in [Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)** |
 | **Mar 2025**       | Deployed CLI Based  EDA project **[Nepal Population Analysis Tool](https://github.com/DhawaDG/Nepal_Population_Analysis_Tool)** |
 | **Apr 2025**       | Published **[Exploratory Data Analysis](https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)** |
-| **Apr 2025**       | Published Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics(https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
+| **Apr 2025**       | Published Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
 | **May 2025**       | Compared **[ Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)** |
 | **May 2025**       | Deployed **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
 | **May 2025**       | Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tacking Data Science learning curve progress |
