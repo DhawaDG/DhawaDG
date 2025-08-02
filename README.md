@@ -30,14 +30,12 @@
 
 | SN | Project Type | Number of Projects |
 |:---:|:---|:---:|
-| **1** | **[Python Fundamentals]()** | Three |
-| **2** | **[Python Fundamentals]()** | Three |
-| **3** | **[Python Fundamentals]()** | Three |
-| **4** | **[Python Fundamentals]()** | Three |
-| **5** | **[Python Fundamentals]()** | Three |
-| **6** | **[Python Fundamentals]()** | Three |
-| **7** | **[Python Fundamentals]()** | Three |
-| **8** | **[Python Fundamentals]()** | Three |
+| **1** | **[Python Fundamentals]()** | Two |
+| **2** | **[SQL()** | One |
+| **2** | **[EDA]()** | Three |
+| **3** | **[Statistics and Hypothesis]()** | Seven |
+| **4** | **[A/B Testing-Product Analytics()** | Currently |
+
 
 
 
