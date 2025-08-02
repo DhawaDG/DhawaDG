@@ -4,10 +4,9 @@
 
 ---
 
-## 🚀 **About Me**
-- 🔭 Building **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** to guide learners through core concepts    
-- 📚 Passionate about **statistics, Data Science, E-commerce & retails analytivs and hands-on data projects**  
-- 🎯 **Goals:** Advance in Data science and quant finance skills & contribute to open-source ML tools  
+## 🚀 **About Me**  
+- 📚 Passionate about **statistics, Data Science, E-commerce & retails analytics and hands-on data projects**  
+- 🎯 **Goals:** Expert in Ecommerce & retails, Advance ML & Gen AI  
 
 ---
 
