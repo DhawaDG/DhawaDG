@@ -34,10 +34,7 @@
 | ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0076A8?style=flat&logo=pandas&logoColor=white) | **[Data Analysis & EDA]()** | 3 |
 | ![Statistics](https://img.shields.io/badge/Statistics-C32148?style=flat&logo=scikitlearn&logoColor=white) | **[Statistical Distributions & Hypothesis Testing]()** | 6 |
 | ![Web App](https://img.shields.io/badge/Web_App-FF4B4B?style=flat&logo=streamlit&logoColor=white) | **[Web App Development]()** | 1 |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | **[Machine Learning ]()** | 1 |
+| ![ML](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white,https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white,https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black,https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | **[Machine Learning ]()** | 1 |
 
 
 
