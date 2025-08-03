@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Project Type Summary
+## 🚀Project Categories Overview
 
 | SN | Project Type | Number of Projects | **[ Numbers of Related Blogs](https://github.com/DhawaDG/ds_blog)** |
 |:---:|:---|:---:|:---|
