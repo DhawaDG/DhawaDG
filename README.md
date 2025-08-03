@@ -28,7 +28,7 @@
 
 ## 🚀 Project Type Summary
 
-| SN | Project Type | Number of Projects | Numbers of Related Blogs |
+| SN | Project Type | Number of Projects | **[ Numbers of Related Blogs](https://github.com/DhawaDG/ds_blog)** |
 |:---:|:---|:---:|:---|
 | **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | **[]()**  |
 | **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | **[]()** |
