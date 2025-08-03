@@ -30,12 +30,12 @@
 
 | SN | Project Type | Number of Projects | Numbers of Related Blogs |
 |:---:|:---|:---:|:---:|
-| **1** | **[Python Fundamentals](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | Two | |
-| **2** | **[SQL](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)**| One | |
-| **3** | **[EDA](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)** | Three | |
-| **4** | **[Statistics and Hypothesis](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** | Seven | |
-| **5** | **[Web App and Dashboard]()** | One | |
-| **6** | **[A/B Testing-Product Analytics]()** | Currently | |
+| **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | **[]()**  |
+| **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | **[]()** |
+| **3** | **EDA** | **[Three](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)**  |**[]()**  |
+| **4** | **Statistics and Hypothesis** | **[Seven](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** |**[]()**  |
+| **5** | **Web App and Dashboard** | **[One](https://mydsjourney.streamlit.app/)**  | **[]()** |
+| **6** | **A/B Testing-Product Analytics** |  **[Ongoing]()**  |**[]()**  |
 
 |  | **[Total]()** | 14 |
 
