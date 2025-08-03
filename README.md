@@ -35,6 +35,7 @@
 | **3** | **[EDA](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)** | Three |
 | **4** | **[Statistics and Hypothesis]()** | Seven |
 | **5** | **[A/B Testing-Product Analytics]()** | Currently |
+|  | **[Total]()** | 14 |
 
 
 
