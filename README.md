@@ -29,7 +29,7 @@
 ## 🚀 Project Type Summary
 
 | SN | Project Type | Number of Projects | Numbers of Related Blogs |
-|:---:|:---|:---:|:---:|
+|:---:|:---|:---:|:---|
 | **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | **[]()**  |
 | **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | **[]()** |
 | **3** | **EDA** | **[Three](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)**  |**[]()**  |
