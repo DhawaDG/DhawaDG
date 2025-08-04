@@ -54,35 +54,19 @@
 ---
 ## 📝 Recent Blog Posts
 
-### Statistical Hypothesis Testing: A Practical Guide with Real Data
+### [demo1](https://github.com/DhawaDG/ds_blog)
 *December 10, 2024 | 8 min read | 📊 Statistics*  
 Breaking down z-tests, t-tests, and ANOVA with examples from my hospital patient outcome analysis project.  
 **Tags:** #Statistics #HypothesisTesting #DataAnalysis #Tutorial
 
 ---
 
-### Building Interactive Dashboards with Streamlit: Lessons from My Learning Tracker
+### [demo1](https://github.com/DhawaDG/ds_blog)
 *December 5, 2024 | 10 min read | 💻 Web Development*  
 A step-by-step guide to creating data applications, from SQLite integration to deployment.  
 **Tags:** #Streamlit #Dashboard #Python #WebDev #Tutorial
-
 ---
-
-### SQL for Data Analysis: Complex Queries Made Simple
-*November 28, 2024 | 15 min read | 🗄️ Database*  
-Deep dive into window functions, CTEs, and query optimization techniques used in my e-commerce analysis project.  
-**Tags:** #SQL #Database #DataAnalysis #Tutorial #Performance
-
----
-
-### Customer Churn Analysis Using Weibull Distribution
-*November 20, 2024 | 12 min read | 📈 Statistics*  
-How I used survival analysis to predict customer churn and improve retention strategies.  
-**Tags:** #SurvivalAnalysis #CustomerChurn #Weibull #BusinessAnalytics
-
----
-[📚 **Read All Posts →**]()  
-
+[📚 **Read All Posts →**](https://github.com/DhawaDG/ds_blog)
 #### Explore tutorials, case studies, and data science insights from my learning journey.
 ---
 
