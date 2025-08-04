@@ -1,12 +1,12 @@
 # Dhawa Dorje Ghising (DhawaDG)
-### **Aspiring Data Scientist | E commerce & Retails | Quant | Junior data analyst | Freelancer**  
+### **Data Science Enthusiast | E-commerce & Retail Analytics | Junior Analyst | Freelance Projects**  
 📍 Based in Nepal | 🚀 Building data-driven solutions with Python, SQL, EDA , Statitical Modeling, Feature Engg, Data Visualization, Story Telling & Advance ML
 
 ---
 
 ##  **About Me**  
-- 📚 Passionate about **E-commerce & retails analytics and hands-on data projects**  
-- 🎯 **Goals:** Expert in Ecommerce & retails analytics, Advance ML & Gen AI  
+- 📚 **📚 Passionate about E-commerce & retail analytics through hands-on, practical projects.**  
+- 🎯 **Goals:** Build expertise in retail analytics, advanced ML, and GenAI through real-world applications. 
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🚀Project Categories Overview
 
-| SN | Project Type | Number of Projects | **[ Numbers of Related Blogs](https://github.com/DhawaDG/ds_blog)** |
+| SN | Project Type | Number of Projects | **[Blogs](https://github.com/DhawaDG/ds_blog)** |
 |:---:|:---|:---:|:---|
 | **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | **[]()**  |
 | **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | **[]()** |
@@ -42,6 +42,30 @@
 
 
 ---
+<details>
+<summary>📜 Full Project Timeline (Click to expand)</summary>
+## 🗺️ **My Journey**
+| Date               | Milestone |
+|--------------------|-----------|
+| **Jan 2025**       | Learned **[Python & Stats Notebook](https://github.com/DhawaDG/Fundamentals-of-Pythons)** |
+| **Jan 2025**       | Published **[Data Scince Bootcamp-- Deerwalk Inc](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti)** |
+| **Mar 2025**       | Deployed CLI Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** |
+| **Mar 2025**       | Deployed CLI Based python fundamental project **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)** |
+| **Mar 2025**       | Analyzed **e-commerce sales with SQL in [Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)** |
+| **Mar 2025**       | Deployed CLI Based  EDA project **[Nepal Population Analysis Tool](https://github.com/DhawaDG/Nepal_Population_Analysis_Tool)** |
+| **Apr 2025**       | Published **[Exploratory Data Analysis](https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)** |
+| **Apr 2025**       | Deployed CLI EDA Tools   **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** which can perform all EDA including summary statistics, visualizations, and data cleaning suggestions. |
+| **Apr 2025**       | Published Conceptual project  **[Sampling Bias and Mean Reversion in Football Analytics](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)** |
+| **May 2025**       | Compared **[ Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)** |
+| **May 2025**       | Deployed **[Hospital Patient Outcome Analysis Using z-test and t-test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)** |
+| **May 2025**       | Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tacking Data Science learning curve progress |
+| **Jun 2025**       | Deployed **[E-commerce Flash Sale and Spike Order Analysis Using Binomial and Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** |
+| **Jun 2025**       | Deployed **[Amazon Product Return Analysis Using Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** |
+| **Jun 2025**       | Deployed **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |
+<!-- Timeline table from above -->
+
+</details>
+
 
 ## 🗺️ **My Journey**
 | Date               | Milestone |
@@ -79,6 +103,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### **Machine Learning & AI**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
