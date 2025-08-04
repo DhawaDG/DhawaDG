@@ -11,7 +11,7 @@
 
 ---
 
-## Resume Badge 
+##  📄 Resume 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/drive/u/2/folders/1k_At7tMNLSux8m-PlOini3-0UBAFcpEq)
 
 
@@ -38,7 +38,7 @@
 | **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** |
 | **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | 
 | **3** | **EDA** | **[Three](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)**  |
-| **4** | **Stastistics and Hypothesis** | **[Seven](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** |
+| **4** | **Statistics and Hypothesis** | **[Seven](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** |
 | **5** | **Web App and Dashboard** | **[One](https://mydsjourney.streamlit.app/)**  | 
 | **6** | **A/B Testing-Product Analytics** |  **[Ongoing]()**  |
 |  | **Total** | **14** | 
@@ -52,7 +52,7 @@
 | Date               | Milestone |
 |--------------------|-----------|
 | **Jan-Mar 2025**   |✅ Learned **[Python Basics Concepts](https://github.com/DhawaDG/Fundamentals-of-Pythons)**.<br>✅ Started  **[Data Science Bootcamp ](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti)** at Deerwalk Inc learned concepts about EDA.Satistics and ML.<br>✅ Implemented two CLI-Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** and  **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)**.<br>✅ Learned **Relational database(MySQL)** and Analyzed +10k datasets **[E-commerce customer segmentations](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)**.<br> ✅ Learned **EDA** and Deployed CLI-Based EDA project **[Nepal Population Analysis Tool](https://github.com/DhawaDG/Nepal_Population_Analysis_Tool)** which analyze census datasets.|
-| **Apr-Jun 2025**       | ✅ Implemented EDA on  **[NHANES datasets](https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)**. Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** which can perform all EDA including <br> summary statistics, visualizations, and data cleaning suggestions.<br> ✅ Started learning **Stastistical Modeling and Hypothesis**, Implemented **seven projects** around  **[Sampling Bias](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)**, <br> **[Normal Distributions](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)**, **[Confidence Interval via CLT vs Bootstrapping](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**,  **[Z test & t test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)**,  Skewed Distributions like  **[Binomial & Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** , **[ Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** and **[Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** .<br> ✅ Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tracking my Data Science learning curve.|
+| **Apr-Jun 2025**       | ✅ Implemented EDA on  **[NHANES datasets](https://github.com/DhawaDG/Exploratory-Data-Analysis-EDA-of-a-Real-World-Dataset)**. Deployed **[CLI EDA Analysis Tool](https://github.com/DhawaDG/CLI_ALL_EDA_ANALYSIS_TOOL)** which can perform all EDA including <br> summary statistics, visualizations, and data cleaning suggestions.<br> ✅ Started learning **Statistical Modeling and Hypothesis**, Implemented **seven projects** around  **[Sampling Bias](https://github.com/DhawaDG/Sampling_Bias_and_Mean_Reversion_in_Football_Analytics)**, <br> **[Normal Distributions](https://github.com/DhawaDG/Z-Test-vs-T-Test-A-Practical-Guide-with-NHANCES-BMI-Data-Analysis)**, **[Confidence Interval via CLT vs Bootstrapping](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**,  **[Z test & t test](https://github.com/DhawaDG/Hospital-Patient-Outcome-Analysis-Using-z-test-and-t-test)**,  Skewed Distributions like  **[Binomial & Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** , **[ Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** and **[Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** .<br> ✅ Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tracking my Data Science learning curve.|
 
 ---
 ## ⏭️ What's Next
