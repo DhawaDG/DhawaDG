@@ -10,8 +10,11 @@
 
 
 ---
+
 ## Resume Badge 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/drive/u/2/folders/1k_At7tMNLSux8m-PlOini3-0UBAFcpEq)
+
+
 ---
 
 ## ⭐ **Featured Projects**
