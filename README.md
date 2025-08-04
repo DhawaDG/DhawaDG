@@ -20,13 +20,9 @@
 ## ⭐ **Featured Projects**
 ### 1. **[Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)**
 > Interactive roadmap for data science learners | `Python` `Streamlit`  
-> ![Roadmap Preview](https://via.placeholder.com/600x300?text=Roadmap+Demo) *(add real screenshot)*
 
 ### 2. **[E-Commerce Sales Analysis](https://github.com/DhawaDG/DhawaDG-E-Commerce-Sales-Analysis-with-SQLS)**
-> SQL-powered sales dashboard & EDA | `SQL` `Pandas`  
-> ```sql
-> SELECT product, SUM(revenue) FROM sales GROUP BY product;
-> ```
+> Identified top-selling products, revenue trends, and customer segments using SQL & Pandas. | `SQL` `Pandas`  
 
 ### 3. **[Sampling & Bootstrapping Study](https://github.com/DhawaDG/Sampling-Distributions-and-Confidence-Intervals-CLT-vs-Bootstrapping)**
 > Comparative analysis of CLT vs Bootstrapping | `Python` `Matplotlib`  
