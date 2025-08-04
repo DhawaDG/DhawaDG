@@ -44,7 +44,8 @@
 ---
 <details>
 <summary>📜 Full Project Timeline (Click to expand)</summary>
-## 🗺️ **My Journey**
+
+<!-- ## 🗺️ **My Journey**
 | Date               | Milestone |
 |--------------------|-----------|
 | **Jan 2025**       | Learned **[Python & Stats Notebook](https://github.com/DhawaDG/Fundamentals-of-Pythons)** |
@@ -61,8 +62,7 @@
 | **May 2025**       | Deployed **[ Data Science Roadmap Tracker](https://mydsjourney.streamlit.app/)** for tacking Data Science learning curve progress |
 | **Jun 2025**       | Deployed **[E-commerce Flash Sale and Spike Order Analysis Using Binomial and Poisson Distribution](https://github.com/DhawaDG/E-commerce-Flash-Sale-and-Spike-Order-Using-Binomial-and-Poisson-Distribution)** |
 | **Jun 2025**       | Deployed **[Amazon Product Return Analysis Using Exponential Distribution](https://github.com/DhawaDG/Amazon-Product-Return-Analysis-Using-Exponential-Distribution)** |
-| **Jun 2025**       | Deployed **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |
-<!-- Timeline table from above -->
+| **Jun 2025**       | Deployed **[E-commerce Churn Rate Analysis Using Weibull Distributions](https://github.com/DhawaDG/E-commrce-Churn-Rate-analysis-using-Weibull-Distributions)** |-->
 
 </details>
 
