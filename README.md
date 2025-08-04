@@ -48,7 +48,7 @@
 |--------------------|-----------|
 | **Jan-Mar 2025**   | - Learned **[Python Basics Concepts](https://github.com/DhawaDG/Fundamentals-of-Pythons)**
                        - Started  **[Data Science Boot-camp ](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti)** at Deerwalk Inc learned concepts about EDA.Satistics and ML.
-                       - Implemented two CLI Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** and  **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)** |
+                       - Implemented two CLI Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** and  **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)**.
 | **Jan 2025**       | Published **[Data Scince Bootcamp-- Deerwalk Inc](https://github.com/DhawaDG/whatLearnedWithInstructorRojanUpreti)** |
 | **Mar 2025**       | Deployed CLI Based python fundamental project **[Password Manager System ](https://github.com/DhawaDG/Password_Manager_Python)** |
 | **Mar 2025**       | Deployed CLI Based python fundamental project **[Expense Tracker System](https://github.com/DhawaDG/Expense_Tracker_System)** |
