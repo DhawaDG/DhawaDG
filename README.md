@@ -5,7 +5,7 @@
 ---
 
 ##  **About Me**  
-- 📚 **📚 Passionate about E-commerce & retail analytics through hands-on, practical projects.**  
+- **📚 Passionate about E-commerce & retail analytics through hands-on, practical projects.**  
 - 🎯 **Goals:** Build expertise in retail analytics, advanced ML, and GenAI through real-world applications. 
 
 ---
