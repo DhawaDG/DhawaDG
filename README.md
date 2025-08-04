@@ -28,15 +28,15 @@
 
 ## 🚀Project Categories Overview
 
-| SN | Project Type | Number of Projects | **[Blogs](https://github.com/DhawaDG/ds_blog)** |
-|:---:|:---|:---:|:---|
-| **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** | **[]()**  |
-| **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | **[]()** |
-| **3** | **EDA** | **[Three](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)**  |**[]()**  |
-| **4** | **Statistics and Hypothesis** | **[Seven](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** |**[]()**  |
-| **5** | **Web App and Dashboard** | **[One](https://mydsjourney.streamlit.app/)**  | **[]()** |
-| **6** | **A/B Testing-Product Analytics** |  **[Ongoing]()**  |**[]()**  |
-|  | **Total** | **14** |   |
+| SN | Project Type | Number of Projects | 
+|:---:|:---|:---:|
+| **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** |
+| **2** | **SQL**|  **[One](https://github.com/DhawaDG/Relational-SQL/blob/main/README.md)** | 
+| **3** | **EDA** | **[Three](https://github.com/DhawaDG/EDA_project_summary/blob/main/README.md)**  |
+| **4** | **Statistics and Hypothesis** | **[Seven](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** |
+| **5** | **Web App and Dashboard** | **[One](https://mydsjourney.streamlit.app/)**  | 
+| **6** | **A/B Testing-Product Analytics** |  **[Ongoing]()**  |
+|  | **Total** | **14** | 
 
 
 
