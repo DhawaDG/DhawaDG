@@ -1,12 +1,12 @@
 # Dhawa Dorje Ghising (DhawaDG)
-### **Data Science Enthusiast | E-commerce & Retail Analytics | Junior Analyst | Freelance Projects**  
+### **Data Science Enthusiast | Junior Analyst | Freelance Projects**  
 📍 Based in Nepal | 🚀 Building data-driven solutions with Python, SQL, EDA , Statistical Modeling, Feature Engg, Data Visualization, Story Telling & Advance ML
 
 ---
 
 ##  **About Me**  
-- **📚 Passionate about E-commerce & retail analytics through hands-on practical projects.**  
-- 🎯 **Goals:** Build expertise in retail analytics, advanced ML, and GenAI through real-world applications. 
+- **📚 Passionate about analytics through hands-on practical projects.**  
+- 🎯 **Goals:** Build expertise in analytics, advanced ML, and GenAI through real-world applications. 
 
 
 ---
