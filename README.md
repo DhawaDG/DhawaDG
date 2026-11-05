@@ -33,6 +33,7 @@
 
 ## 🚀Project Categories Overview
 |Analytics|
+|:---:|
 | SN | Project Type | Number of Projects | 
 |:---:|:---|:---:|
 | **1** | **Python Fundamentals** | **[Two](https://github.com/DhawaDG/Python_fundaments/blob/main/README.md)** |
