@@ -44,6 +44,19 @@
 |  | **Total** | **14** | 
 
 
+***Data Engineering Projects***
+| SN | Project Type | Number of Projects | 
+|:---:|:---|:---:|
+| **1** | **Linux and Bash:** | **[ongoing]()** |
+| **2** | **Git:**|  **[ongoing]()** | 
+| **3** | **Networking basics** | **[onging]()**  |
+| **4** | **Data Fundamentals(Relational databases,Data modeling.File formats,NoSQL, OLTP vs. OLAP)** | **[ongoing]()** |
+| **5** | **Core Tooling(Pandas &PySpark,dbt.Airflow,Docker)** | **[ongoing]()**  | 
+| **6** | **Cloud and Warehousing(S3/GCS, IAM, Terraform basics,Snowflake)** |  **[ongoing]()**  |
+| **7** | **Production Engineering(Data quality.Observability,CI/CD. Data Governance.Performance tuning)** | **[ongoing]()** |
+|  | **Total** | **ongoing**|
+
+
 
 
 ---
