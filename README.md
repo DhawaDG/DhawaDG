@@ -47,7 +47,7 @@
 ***Data Engineering Projects***
 | SN | Project Type | Number of Projects | 
 |:---:|:---|:---:|
-| **1** | **Linux and Bash:** | **[ongoing]()** |
+| **1** | **Linux and Bash** | **[ongoing]()** |
 | **2** | **Git**|  **[ongoing]()** | 
 | **3** | **Networking basics** | **[onging]()**  |
 | **4** | **Data Fundamentals(Relational databases,Data modeling,File formats,NoSQL, OLTP vs. OLAP)** | **[ongoing]()** |
